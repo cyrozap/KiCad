@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TC358870XBG
+HDMI to Dual-link DSI Bridge
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=28743&prodName=TC358870XBG
+$ENDCMP
+#
 $CMP TFP403
 D TI TFP403 PanelBus DVI Receiver
 F http://www.ti.com/lit/ds/symlink/tfp403.pdf
