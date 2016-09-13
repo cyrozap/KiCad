@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT1611
+D Inverting Switching Voltage Regulator, SOT-23
+K Switching Regulator Negative Inverting
+F https://cds.linear.com/docs/en/datasheet/1611f.pdf
+$ENDCMP
+#
 #End Doc Library
