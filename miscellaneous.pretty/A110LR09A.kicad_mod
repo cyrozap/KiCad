@@ -1,4 +1,4 @@
-(module A110LR09X (layer F.Cu) (tedit 582130AA)
+(module A110LR09A (layer F.Cu) (tedit 58213446)
   (descr https://www.anaren.com/sites/default/files/user-manuals/A110LR09x_Users_Manual.pdf)
   (fp_text reference REF** (at 0 -7.05) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
@@ -8,7 +8,6 @@
   )
   (fp_line (start -4.5 -10.5) (end 4.5 -10.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.5 -4.5) (end -4.5 -10.5) (layer F.SilkS) (width 0.15))
-  (fp_line (start 4.5 -10.5) (end 4.5 -10.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.5 -10.5) (end 4.5 -4.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -6.25 -12.25) (end 6.25 -12.25) (layer F.CrtYd) (width 0.15))
   (fp_line (start 6.25 -12.25) (end 6.25 7) (layer F.CrtYd) (width 0.15))
