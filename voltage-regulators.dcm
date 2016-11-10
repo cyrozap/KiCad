@@ -6,4 +6,9 @@ K Switching Regulator Negative Inverting
 F https://cds.linear.com/docs/en/datasheet/1611f.pdf
 $ENDCMP
 #
+$CMP TPS6116x
+D White LED Driver with Digital and PWM Brightness Control
+F http://www.ti.com/lit/gpn/tps61161
+$ENDCMP
+#
 #End Doc Library
