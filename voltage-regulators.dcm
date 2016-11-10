@@ -11,4 +11,9 @@ D White LED Driver with Digital and PWM Brightness Control
 F http://www.ti.com/lit/gpn/tps61161
 $ENDCMP
 #
+$CMP TPS65132WRVC
+D Single Inductor - Dual Output Power Supply
+F http://www.ti.com/lit/gpn/tps65132
+$ENDCMP
+#
 #End Doc Library
