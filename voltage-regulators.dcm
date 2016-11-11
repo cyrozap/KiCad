@@ -16,4 +16,9 @@ D Single Inductor - Dual Output Power Supply
 F http://www.ti.com/lit/gpn/tps65132
 $ENDCMP
 #
+$CMP TPS65132xxYFF
+D Single Inductor - Dual Output Power Supply
+F http://www.ti.com/lit/gpn/tps65132
+$ENDCMP
+#
 #End Doc Library
