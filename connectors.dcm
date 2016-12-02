@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HDMI
+D A standard HDMI connector
+K HDMI
+F https://en.wikipedia.org/wiki/HDMI
+$ENDCMP
+#
+#End Doc Library
