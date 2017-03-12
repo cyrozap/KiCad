@@ -4,6 +4,12 @@ $CMP A110LR09x
 F https://www.anaren.com/sites/default/files/user-manuals/A110LR09x_Users_Manual.pdf
 $ENDCMP
 #
+$CMP ESP-12E
+D ESP8266 WiFi module
+K ESP8266, WiFi, Wi-Fi, wireless
+F http://wiki.seeedstudio.com/images/7/7d/ESP-12E_brief_spec.pdf
+$ENDCMP
+#
 $CMP NRF51822-04
 D Bluetooth Low Energy module
 K BLE, Bluetooth, Bluetooth Smart, Bluetooth Low Energy
