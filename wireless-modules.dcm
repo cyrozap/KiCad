@@ -4,6 +4,12 @@ $CMP A110LR09x
 F https://www.anaren.com/sites/default/files/user-manuals/A110LR09x_Users_Manual.pdf
 $ENDCMP
 #
+$CMP CC1101-868MHz-Module
+D CC1101 868/915 MHz module
+K CC1101, wireless
+F http://www.digirf.com/XWFU/2013/4f3751b81deca976.pdf
+$ENDCMP
+#
 $CMP ESP-12E
 D ESP8266 WiFi module
 K ESP8266, WiFi, Wi-Fi, wireless
